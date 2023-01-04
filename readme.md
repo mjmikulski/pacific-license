@@ -2,6 +2,13 @@
 
 A permissive [license](license.md) that excludes military use. Feel free to use it in your project.
 
+## How to use
+- Copy the `license.md` file to the root of your repository. 
+- Replace placehodlers for the year and the author with the real values.
+- Rejoice living in a better World.
+
+## License of the license
+This Pacific License text is licensed under Pacific License. 
 
 ## Resources
 - Post *Open source project adds “no military use” clause to the GPL* [link](https://www.linux.com/news/open-source-project-adds-no-military-use-clause-gpl/).
