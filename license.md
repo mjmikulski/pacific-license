@@ -3,7 +3,7 @@
 Copyright (c) [year] [fullname]
 
 Permission to use, copy, distribute, modify, remix, transform and build upon this software for any non-military
-purpose is granted, provided that following conditions are met:
+purpose is granted free of charge, provided that following conditions are met:
 1. The above copyright notice, this permission notice and the below disclaimer appear in all copies.
 2. The software is not used by any military owned computer, vehicle, robot or any other device.
 3. The software may not be stored on any medium located in a military property.
