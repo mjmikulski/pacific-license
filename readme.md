@@ -1,5 +1,7 @@
 # Pacific License
 
+![](peace.jpg "Photo by Nandhu Kumar from Pexels")
+
 A permissive [license](license.md) that excludes military use. Feel free to use it in your project.
 
 ## How to use
